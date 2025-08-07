@@ -1,0 +1,121 @@
+hospital_name,city,state,procedure,cost,room_charge,lab_fee,insurance_discount,final_bill
+Paras Healthcare,Delhi,India,CT Scan,150995,3301,7125,10902,150519
+Kokilaben Hospital,Delhi,India,Knee Replacement,100135,5646,3210,1406,107585
+Fortis Healthcare,Hyderabad,India,Blood Test,104610,11187,5606,1019,120384
+Manipal Hospitals,Bangalore,India,Blood Test,56039,10407,2126,5232,63340
+Apollo Hospitals,Pune,India,Full Body Checkup,238384,5671,3807,2974,244888
+Paras Healthcare,Pune,India,X-Ray,44102,8411,5207,677,57043
+Manipal Hospitals,Mumbai,India,MRI Scan,90070,3846,6431,14559,85788
+Kokilaben Hospital,Delhi,India,Blood Test,194439,8410,2104,14340,190613
+Aster DM Healthcare,Chennai,India,MRI Scan,107588,9786,7282,12865,111791
+Paras Healthcare,Pune,India,Appendix Surgery,240950,7837,5342,9542,244587
+Apollo Hospitals,Hyderabad,India,Heart Bypass,57760,2396,5523,4014,61665
+Nanavati Hospital,Delhi,India,Appendix Surgery,201865,5429,2780,1324,208750
+Manipal Hospitals,Mumbai,India,Knee Replacement,189662,11213,1161,1796,200240
+Paras Healthcare,Mumbai,India,MRI Scan,192450,10309,3805,4579,201985
+Fortis Healthcare,Pune,India,Blood Test,94058,1549,6517,7330,94794
+Aster DM Healthcare,Delhi,India,X-Ray,177791,3169,6898,7332,180526
+Kokilaben Hospital,Hyderabad,India,Appendix Surgery,185121,875,1403,7254,180145
+Max Healthcare,Mumbai,India,CT Scan,206852,5206,2448,6886,207620
+Kokilaben Hospital,Bangalore,India,Blood Test,170352,7412,7259,14563,170460
+Fortis Healthcare,Delhi,India,CT Scan,174830,588,439,5078,170779
+Fortis Healthcare,Bangalore,India,CT Scan,179217,10544,4734,5728,188767
+Manipal Hospitals,Hyderabad,India,CT Scan,197576,9692,4873,4722,207419
+Paras Healthcare,Pune,India,Appendix Surgery,12162,4003,5167,6196,15136
+Manipal Hospitals,Pune,India,X-Ray,101979,10133,7510,12533,107089
+Fortis Healthcare,Delhi,India,Full Body Checkup,168813,1179,2285,9482,162795
+Fortis Healthcare,Pune,India,Heart Bypass,83124,6379,986,2729,87760
+Nanavati Hospital,Mumbai,India,Blood Test,65304,9347,1490,3150,72991
+Nanavati Hospital,Pune,India,MRI Scan,127731,1582,215,7935,121593
+Paras Healthcare,Chennai,India,Full Body Checkup,236713,8511,5462,6725,243961
+Aster DM Healthcare,Pune,India,CT Scan,148645,6843,7240,5576,157152
+Nanavati Hospital,Pune,India,Knee Replacement,249628,969,4123,2179,252541
+Max Healthcare,Hyderabad,India,Full Body Checkup,147176,11747,4564,11221,152266
+Max Healthcare,Pune,India,Appendix Surgery,51365,1780,1712,11515,43342
+Paras Healthcare,Mumbai,India,Knee Replacement,9439,7236,3289,8125,11839
+Nanavati Hospital,Mumbai,India,Appendix Surgery,96703,11580,7043,5617,109709
+Aster DM Healthcare,Delhi,India,Heart Bypass,4670,2507,2201,7704,1674
+Fortis Healthcare,Mumbai,India,MRI Scan,191778,9009,3325,12667,191445
+Manipal Hospitals,Pune,India,MRI Scan,106944,7458,7545,8601,113346
+Max Healthcare,Hyderabad,India,Blood Test,80941,9597,2499,8146,84891
+Nanavati Hospital,Pune,India,MRI Scan,108797,10498,7645,6545,120395
+Apollo Hospitals,Pune,India,CT Scan,236317,4973,5716,8981,238025
+Apollo Hospitals,Pune,India,CT Scan,29563,4267,2616,5751,30695
+Nanavati Hospital,Mumbai,India,MRI Scan,23690,2470,1796,10903,17053
+Paras Healthcare,Hyderabad,India,Full Body Checkup,98641,3649,288,10216,92362
+Paras Healthcare,Mumbai,India,Full Body Checkup,183062,10506,3840,3708,193700
+Manipal Hospitals,Pune,India,CT Scan,218034,7757,3797,11665,217923
+Max Healthcare,Chennai,India,Knee Replacement,47694,972,1891,8724,41833
+Aster DM Healthcare,Bangalore,India,MRI Scan,71670,10623,4481,9615,77159
+Fortis Healthcare,Bangalore,India,CT Scan,61660,6805,7838,10946,65357
+Max Healthcare,Bangalore,India,Knee Replacement,147843,7225,1653,12509,144212
+Aster DM Healthcare,Bangalore,India,CT Scan,79437,5371,6035,1095,89748
+Max Healthcare,Pune,India,Blood Test,16327,6213,7349,9983,19906
+Paras Healthcare,Chennai,India,CT Scan,116107,3885,1244,10274,110962
+Paras Healthcare,Pune,India,Blood Test,242113,4120,5935,520,251648
+Fortis Healthcare,Hyderabad,India,Heart Bypass,8947,11754,7307,1451,26557
+Paras Healthcare,Mumbai,India,Heart Bypass,29947,7593,3904,14552,26892
+Aster DM Healthcare,Bangalore,India,CT Scan,152417,9781,1071,6366,156903
+Kokilaben Hospital,Mumbai,India,MRI Scan,125023,7056,6296,11131,127244
+Apollo Hospitals,Hyderabad,India,MRI Scan,19110,1995,4182,3412,21875
+Apollo Hospitals,Delhi,India,MRI Scan,174746,9679,5114,3227,186312
+Aster DM Healthcare,Mumbai,India,Appendix Surgery,178577,4534,3576,9910,176777
+Manipal Hospitals,Delhi,India,Heart Bypass,209613,4905,1391,9075,206834
+Nanavati Hospital,Hyderabad,India,Appendix Surgery,166676,9367,2484,7388,171139
+Nanavati Hospital,Delhi,India,X-Ray,28627,5252,6260,1868,38271
+Fortis Healthcare,Delhi,India,Heart Bypass,227872,8862,3883,8051,232566
+Fortis Healthcare,Hyderabad,India,Knee Replacement,32068,2753,7706,11067,31460
+Manipal Hospitals,Pune,India,X-Ray,169627,1614,1996,8374,164863
+Manipal Hospitals,Mumbai,India,Knee Replacement,103259,2745,2784,4283,104505
+Max Healthcare,Delhi,India,Full Body Checkup,80536,4487,5845,14414,76454
+Apollo Hospitals,Bangalore,India,MRI Scan,79320,8465,3937,3107,88615
+Max Healthcare,Hyderabad,India,Knee Replacement,117600,5779,6973,8630,121722
+Paras Healthcare,Bangalore,India,Heart Bypass,77665,5215,4000,14543,72337
+Max Healthcare,Delhi,India,Appendix Surgery,99949,3685,7582,8475,102741
+Nanavati Hospital,Chennai,India,Appendix Surgery,148323,8973,2302,12314,147284
+Apollo Hospitals,Delhi,India,CT Scan,76857,7747,3930,13072,75462
+Max Healthcare,Chennai,India,Knee Replacement,19938,8088,4242,4635,27633
+Apollo Hospitals,Delhi,India,Appendix Surgery,157455,3930,4985,13143,153227
+Aster DM Healthcare,Delhi,India,Knee Replacement,29190,4965,2659,6171,30643
+Apollo Hospitals,Pune,India,Blood Test,53658,8864,2410,5801,59131
+Nanavati Hospital,Chennai,India,Knee Replacement,214349,6023,2680,2324,220728
+Manipal Hospitals,Bangalore,India,Blood Test,228577,1568,3543,3601,230087
+Fortis Healthcare,Delhi,India,Appendix Surgery,115282,3426,6626,1746,123588
+Manipal Hospitals,Delhi,India,Full Body Checkup,216009,2319,7522,3572,222278
+Aster DM Healthcare,Pune,India,MRI Scan,45155,11760,2436,8240,51111
+Manipal Hospitals,Hyderabad,India,Blood Test,198716,7492,7468,12598,201078
+Aster DM Healthcare,Pune,India,Knee Replacement,77249,7981,3178,13055,75353
+Manipal Hospitals,Hyderabad,India,Blood Test,227518,5261,7145,4870,235054
+Nanavati Hospital,Chennai,India,X-Ray,132162,8180,7437,10673,137106
+Max Healthcare,Pune,India,MRI Scan,170900,11360,6036,3651,184645
+Kokilaben Hospital,Chennai,India,MRI Scan,108101,11788,3909,6630,117168
+Aster DM Healthcare,Pune,India,X-Ray,5875,10069,1487,11406,6025
+Max Healthcare,Pune,India,X-Ray,174271,8815,5362,11692,176756
+Apollo Hospitals,Bangalore,India,X-Ray,4473,3007,900,512,7868
+Apollo Hospitals,Bangalore,India,Appendix Surgery,13491,9019,6659,9479,19690
+Nanavati Hospital,Pune,India,X-Ray,194995,10682,6121,12371,199427
+Manipal Hospitals,Hyderabad,India,Appendix Surgery,38771,10692,6969,11803,44629
+Aster DM Healthcare,Hyderabad,India,X-Ray,96149,2147,3163,8462,92997
+Aster DM Healthcare,Delhi,India,MRI Scan,125660,10984,4992,14335,127301
+Kokilaben Hospital,Hyderabad,India,MRI Scan,181424,2134,418,14788,169188
+Kokilaben Hospital,Hyderabad,India,X-Ray,80486,4241,5637,3727,86637
+Manipal Hospitals,Mumbai,India,MRI Scan,72163,6445,3658,13010,69256
+Nanavati Hospital,Mumbai,India,Full Body Checkup,30313,6437,5931,11778,30903
+Max Healthcare,Pune,India,CT Scan,169344,4953,7741,1852,180186
+Max Healthcare,Pune,India,MRI Scan,245885,6890,5642,3627,254790
+Manipal Hospitals,Bangalore,India,Appendix Surgery,240151,7034,2834,761,249258
+Apollo Hospitals,Hyderabad,India,MRI Scan,16121,4526,617,8785,12479
+Kokilaben Hospital,Hyderabad,India,X-Ray,49574,4018,1306,1054,53844
+Fortis Healthcare,Hyderabad,India,CT Scan,163443,10131,5378,1076,177876
+Fortis Healthcare,Mumbai,India,Heart Bypass,160399,3265,5699,814,168549
+Manipal Hospitals,Pune,India,Knee Replacement,155741,745,6232,13598,149120
+Fortis Healthcare,Mumbai,India,X-Ray,186469,6448,830,5196,188551
+Paras Healthcare,Bangalore,India,Heart Bypass,202112,9308,7461,14192,204689
+Manipal Hospitals,Mumbai,India,Knee Replacement,196783,8022,2183,11121,195867
+Aster DM Healthcare,Pune,India,Heart Bypass,243224,1427,340,9802,235189
+Apollo Hospitals,Bangalore,India,Full Body Checkup,91271,11559,4809,13785,93854
+Manipal Hospitals,Hyderabad,India,Heart Bypass,40554,8240,5163,5812,48145
+Kokilaben Hospital,Bangalore,India,CT Scan,84607,4626,6402,12152,83483
+Fortis Healthcare,Mumbai,India,Full Body Checkup,25603,9382,6758,5953,35790
+Aster DM Healthcare,Chennai,India,Knee Replacement,218420,1321,985,11217,209509
+Manipal Hospitals,Bangalore,India,Full Body Checkup,111503,7847,987,10852,109485
